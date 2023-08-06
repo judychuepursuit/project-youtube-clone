@@ -1,6 +1,6 @@
 **<h1 align='center'>Project <span style='color: #dc3545'>YouTube</span> Clone</h1>**
 
-### **Here is our** 👉 [Trello Board](https://trello.com/b/ZlCqQspH/utube-lab-collaboration) 📋
+### **Here is our** 👉 [Trello Board](https://trello.com/b/lV2ZJ4XW) 📋
 
 ### **Netlify Deployed App** 👉 [YouTube Clone](https://youtube-404.netlify.app/)
 
